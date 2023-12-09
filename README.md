@@ -4,6 +4,8 @@ Passionate front-end developer dedicated to crafting intuitive and visually stun
 
 Skills: REACT / JS / HTML / CSS/ REACT Hooks
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminakash754&show_icons=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminakash754)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭  Dedicated to front-end development, crafting engaging and intuitive user experiences. 
@@ -17,8 +19,6 @@ Skills: REACT / JS / HTML / CSS/ REACT Hooks
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminakash754&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alaminakash754)  
 
