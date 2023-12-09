@@ -4,7 +4,7 @@
 
 Passionate front-end developer dedicated to crafting intuitive and visually stunning web experiences. Committed to pushing the boundaries of user interface design and creating seamless interactions that captivate and engage users. Enthusiastic about leveraging the latest technologies to build responsive, accessible, and performant websites that leave a lasting impact.
 
-Skills: REACT / JS / HTML / CSS/ REACT Hooks
+Skills: REACT ⚛️ / JS / HTML / CSS/ REACT Hooks
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminakash754&show_icons=true)  
 
