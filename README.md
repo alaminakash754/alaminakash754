@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Redux, NextJS**
 
-- 👨‍💻 My Portfolio is [https://eight-pain.surge.sh/](https://eight-pain.surge.sh/)
+- 👨‍💻 My Portfolio is [https://alamins-portfolio-6c6ac.web.app/](https://alamins-portfolio-6c6ac.web.app/)
 
 - 💬 Ask me about **React, Java Script**
 
